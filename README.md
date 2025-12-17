@@ -1,5 +1,5 @@
-## 🚨 Deployed Project  
-### 👉 🔴 CLICK HERE 🚀  https://hirelens-n84wz.sevalla.app/#/
+## 🚨 Deployed Link  
+### 👉 🔴 [CLICK HERE 🚀](https://hirelens-n84wz.sevalla.app/#/)
 
 <h1 align="center">✨ Full-Stack Real-Time Video Interview & Coding Platform ✨</h1>
 
